@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="590px" height="336px" viewBox="0 0 590 336" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Cards</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="570" height="286" rx="12"></rect>
+        <filter x="-3.2%" y="-4.2%" width="106.3%" height="112.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#EBF3FF" offset="0%"></stop>
+            <stop stop-color="#ACCBFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#FFF4EB" offset="0%"></stop>
+            <stop stop-color="#FFD3AD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="316" height="130" rx="12"></rect>
+        <filter x="-5.7%" y="-9.2%" width="111.4%" height="127.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M34,94 C32.1190302,94 30.5942029,92.4751727 30.5942029,90.5942029 C30.5942029,88.7132331 32.1190302,87.1884058 34,87.1884058 C56.1954436,87.1884058 74.1884058,69.1954436 74.1884058,47 C74.1884058,24.8045564 56.1954436,6.8115942 34,6.8115942 C23.4041517,6.8115942 13.465343,10.9255902 6.01337993,18.1580248 C4.66360037,19.4680411 2.50740985,19.4358065 1.19739363,18.0860269 C-0.112622602,16.7362474 -0.0803880504,14.5800569 1.26939151,13.2700406 C9.97997487,4.81606351 21.6148754,0 34,0 C59.9573832,0 81,21.0426168 81,47 C81,72.9573832 59.9573832,94 34,94 Z" id="path-7"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#5393FF" offset="0%"></stop>
+            <stop stop-color="#004AC9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12,1.54279687 L10.2000703,1.79988281 L10.4572266,0 L9.088125,1.36905469 C8.15620312,0.734648437 7.03057031,0.363632812 5.81817187,0.363632812 C2.60486719,0.363632813 0,2.9685 0,6.18182812 C0,9.39515625 2.60486719,12 5.81817187,12 C9.03145312,12 11.6363437,9.39513281 11.6363437,6.18182813 C11.6363437,4.96942969 11.2653281,3.84375 10.6309219,2.91182813 L12,1.54279687 Z M5.81817187,10.5454453 C3.40821094,10.5454453 1.45453125,8.59176562 1.45453125,6.18180469 C1.45453125,3.77184375 3.40821094,1.8181875 5.81817187,1.8181875 C6.82654687,1.8181875 7.75490625,2.16039844 8.49379687,2.73478125 L7.45303125,3.77554687 C6.98709375,3.45834375 6.42433594,3.27274219 5.81814844,3.27274219 C4.21148437,3.27274219 2.9090625,4.5751875 2.9090625,6.18182812 C2.9090625,7.78846875 4.21150781,9.09091406 5.81814844,9.09091406 C7.42478906,9.09091406 8.72723437,7.78846875 8.72723437,6.18182812 C8.72723437,5.57564062 8.54163281,5.01288281 8.22442969,4.54694531 L9.26519531,3.50617969 C9.83960156,4.24509375 10.1817656,5.17345312 10.1817656,6.18180469 C10.1818125,8.59178906 8.22810937,10.5454453 5.81817187,10.5454453 Z M5.57175,6.42822656 C5.78472656,6.64125 6.130125,6.64125 6.34317187,6.42822656 L7.15760156,5.61379688 C7.23166406,5.78833594 7.27272656,5.9803125 7.27272656,6.18182813 C7.27272656,6.98517188 6.62149219,7.63638281 5.81817187,7.63638281 C5.01485156,7.63638281 4.36361719,6.98517188 4.36361719,6.18182813 C4.36361719,5.37848438 5.01485156,4.72727344 5.81817187,4.72727344 C6.01971094,4.72727344 6.21166406,4.76828906 6.38617969,4.84239844 L5.57175,5.65682813 C5.35877344,5.86982813 5.35877344,6.21520313 5.57175,6.42822656 Z" id="path-10"></path>
+        <rect id="path-12" x="0" y="0" width="316" height="130" rx="12"></rect>
+        <filter x="-5.7%" y="-9.2%" width="111.4%" height="127.7%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.592,10.126 C3.36932722,10.126 2.43600322,9.69200434 1.792,8.824 C1.14799678,7.95599566 0.826,6.70067488 0.826,5.058 C0.826,3.44332526 1.15033009,2.20200434 1.799,1.334 C2.44766991,0.46599566 3.3786606,0.032 4.592,0.032 C5.8053394,0.032 6.73633009,0.46599566 7.385,1.334 C8.03366991,2.20200434 8.358,3.44332526 8.358,5.058 C8.358,6.70067488 8.03600322,7.95599566 7.392,8.824 C6.74799678,9.69200434 5.81467278,10.126 4.592,10.126 Z M4.592,8.18 C5.04000224,8.18 5.36199902,7.93733576 5.558,7.452 C5.75400098,6.96666424 5.852,6.16867222 5.852,5.058 C5.852,3.96599454 5.75400098,3.17966907 5.558,2.699 C5.36199902,2.21833093 5.04000224,1.978 4.592,1.978 C4.14399776,1.978 3.82200098,2.21833093 3.626,2.699 C3.42999902,3.17966907 3.332,3.96599454 3.332,5.058 C3.332,6.16867222 3.42999902,6.96666424 3.626,7.452 C3.82200098,7.93733576 4.14399776,8.18 4.592,8.18 Z M9.394,7.452 L11.984,7.452 L11.984,10 L9.394,10 L9.394,7.452 Z M16.45,0.004 C17.7660066,0.004 18.7833297,0.43332904 19.502,1.292 C20.2206703,2.15067096 20.58,3.3733254 20.58,4.96 C20.58,6.02400532 20.4073351,6.94332946 20.062,7.718 C19.7166649,8.49267054 19.2196699,9.08766459 18.571,9.503 C17.9223301,9.91833541 17.1593377,10.126 16.282,10.126 C15.6566635,10.126 15.0523362,10.0350009 14.469,9.853 C13.8856637,9.67099909 13.398002,9.41200168 13.006,9.076 L13.804,7.256 C14.2333355,7.55466816 14.6486647,7.77633261 15.05,7.921 C15.4513353,8.06566739 15.8199983,8.138 16.156,8.138 C17.2760056,8.138 17.8919994,7.31200826 18.004,5.66 C17.7986656,5.95866816 17.5140018,6.19433247 17.15,6.367 C16.7859982,6.53966753 16.3893355,6.626 15.96,6.626 C15.3999972,6.626 14.8960022,6.48833471 14.448,6.213 C13.9999978,5.93766529 13.647668,5.55500245 13.391,5.065 C13.1343321,4.57499755 13.006,4.02200308 13.006,3.406 C13.006,2.7526634 13.1529985,2.16700259 13.447,1.649 C13.7410015,1.13099741 14.1493307,0.72733478 14.672,0.438 C15.1946693,0.14866522 15.78733,0.004 16.45,0.004 Z M16.604,4.638 C16.9680018,4.638 17.2596656,4.51666788 17.479,4.274 C17.6983344,4.03133212 17.808,3.70933534 17.808,3.308 C17.808,2.91599804 17.6960011,2.59633457 17.472,2.349 C17.2479989,2.10166543 16.9586684,1.978 16.604,1.978 C16.2399982,1.978 15.9506677,2.09933212 15.736,2.342 C15.5213323,2.58466788 15.414,2.90666466 15.414,3.308 C15.414,3.71866872 15.518999,4.04299881 15.729,4.281 C15.9390011,4.51900119 16.2306648,4.638 16.604,4.638 Z" id="path-14"></path>
+        <path d="M4.379075,5.47148466 C4.09740978,5.47148466 3.869075,5.24735237 3.869075,4.97087117 C3.869075,4.69438997 4.09740978,4.47025767 4.379075,4.47025767 C4.66074022,4.47025767 4.889075,4.69438997 4.889075,4.97087117 C4.889075,5.24735237 4.66074022,5.47148466 4.379075,5.47148466 Z M7.619075,7.5033865 C7.33740978,7.5033865 7.109075,7.27925421 7.109075,7.00277301 C7.109075,6.72629181 7.33740978,6.50215951 7.619075,6.50215951 C7.90074022,6.50215951 8.129075,6.72629181 8.129075,7.00277301 C8.129075,7.27925421 7.90074022,7.5033865 7.619075,7.5033865 Z M11.824075,6.64939877 C12.106575,7.02976687 11.986575,7.5647362 11.569075,7.79050307 L11.296575,7.94019632 C10.999075,8.10215951 10.839075,8.43344785 10.901575,8.76228221 L10.959075,9.0641227 C11.046575,9.52547239 10.701575,9.95737423 10.224075,9.9843681 L9.911575,10.001546 C9.571575,10.0187239 9.281575,10.2493988 9.191575,10.5733252 L9.109075,10.8702577 C8.981575,11.3217914 8.481575,11.5647362 8.039075,11.3855951 L7.749075,11.2678037 C7.434075,11.1401963 7.071575,11.2236319 6.846575,11.4763926 L6.641575,11.7070675 C6.329075,12.0628957 5.771575,12.0653497 5.451575,11.7168834 L5.244075,11.4886626 C5.016575,11.2383558 4.651575,11.1598282 4.339075,11.2923436 L4.051575,11.412589 C3.611575,11.599092 3.106575,11.3659632 2.974075,10.9144294 L2.886575,10.6199509 C2.791575,10.2984785 2.496575,10.0727117 2.156575,10.0579877 L1.844075,10.0457178 C1.366575,10.0260859 1.014075,9.59909202 1.094075,9.13774233 L1.146575,8.83590184 C1.204075,8.5046135 1.039075,8.17577914 0.739075,8.01872393 L0.464075,7.87393865 C0.041575,7.65062577 -0.085925,7.11811043 0.189075,6.73528834 L0.369075,6.4849816 C0.566575,6.21013497 0.561575,5.8444908 0.361575,5.57455215 L0.176575,5.32669939 C-0.105925,4.94878528 0.014075,4.41381595 0.431575,4.18559509 L0.704075,4.03590184 C1.001575,3.87393865 1.161575,3.54265031 1.099075,3.21381595 L1.041575,2.91197546 C0.954075,2.45062577 1.299075,2.01872393 1.776575,1.99173006 L2.089075,1.97455215 C2.429075,1.95737423 2.719075,1.72669939 2.809075,1.40277301 L2.891575,1.10584049 C3.019075,0.654306748 3.519075,0.411361963 3.961575,0.590503067 L4.251575,0.708294479 C4.566575,0.83590184 4.929075,0.752466258 5.154075,0.499705521 L5.359075,0.269030675 C5.674075,-0.086797546 6.231575,-0.0892515337 6.549075,0.259214724 L6.756575,0.487435583 C6.984075,0.737742331 7.349075,0.816269939 7.661575,0.683754601 L7.949075,0.563509202 C8.389075,0.377006135 8.894075,0.610134969 9.026575,1.06166871 L9.114075,1.35614724 C9.209075,1.67761963 9.504075,1.9033865 9.844075,1.91811043 L10.156575,1.93038037 C10.634075,1.95001227 10.986575,2.37700613 10.906575,2.83835583 L10.854075,3.14019632 C10.796575,3.47148466 10.961575,3.80031902 11.261575,3.95737423 L11.536575,4.10215951 C11.959075,4.32547239 12.086575,4.85798773 11.811575,5.24080982 L11.631575,5.49111656 C11.434075,5.76596319 11.439075,6.13160736 11.639075,6.40154601 L11.824075,6.64939877 Z M3.146575,4.97087117 C3.146575,5.63590184 3.696575,6.17823313 4.376575,6.17823313 C5.056575,6.17823313 5.606575,5.63835583 5.606575,4.97087117 C5.606575,4.3033865 5.056575,3.7635092 4.376575,3.7635092 C3.696575,3.7635092 3.146575,4.3033865 3.146575,4.97087117 Z M4.614075,8.0849816 L7.841575,4.26903067 C7.946575,4.1438773 7.929075,3.95737423 7.801575,3.85430675 C7.674075,3.75123926 7.484075,3.76841718 7.379075,3.89357055 L4.151575,7.70952147 C4.046575,7.83467485 4.064075,8.02117791 4.191575,8.1242454 C4.319075,8.22731288 4.509075,8.21013497 4.614075,8.0849816 Z M7.619075,8.21013497 C8.299075,8.21013497 8.849075,7.67025767 8.849075,7.00277301 C8.849075,6.33528834 8.299075,5.79541104 7.619075,5.79541104 C6.939075,5.79541104 6.389075,6.33528834 6.389075,7.00277301 C6.389075,7.67025767 6.939075,8.21013497 7.619075,8.21013497 Z" id="path-16"></path>
+    </defs>
+    <g id="WMS-Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Alpha" transform="translate(-90.000000, -1255.000000)">
+            <g id="Leo-[Div-4]" transform="translate(100.000000, 1259.000000)">
+                <g id="Cards">
+                    <g id="Sorting-Graph-[Col-8]" opacity="0.200000003">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Graph" transform="translate(27.000000, 18.000000)">
+                            <g id="X-Axis-Lines" transform="translate(40.000000, 43.000000)" fill-rule="nonzero" stroke="#D9D9D9" stroke-dasharray="1.265625050291419,4.429687676019967" stroke-linecap="square">
+                                <path d="M448,172.5 L0,172.5" id="X-Axis-5"></path>
+                                <path d="M448,129.5 L0,129.5" id="X-Axis-4"></path>
+                                <path d="M448,86.5 L0,86.5" id="X-Axis-3"></path>
+                                <path d="M448,43.5 L0,43.5" id="X-Axis-2"></path>
+                                <path d="M448,0.5 L0,0.5" id="X-Axis-1"></path>
+                            </g>
+                            <g id="Y-Data" transform="translate(0.000000, 38.000000)" fill="#000000" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" font-weight="normal">
+                                <text id="0">
+                                    <tspan x="24.8" y="180">0</tspan>
+                                </text>
+                                <text id="400">
+                                    <tspan x="10.4" y="138">400</tspan>
+                                </text>
+                                <text id="800">
+                                    <tspan x="10.4" y="96">800</tspan>
+                                </text>
+                                <text id="1,200">
+                                    <tspan x="0.452" y="54">1,200</tspan>
+                                </text>
+                                <text id="1,600">
+                                    <tspan x="0.464" y="12">1,600</tspan>
+                                </text>
+                            </g>
+                            <text id="PI" font-family="NunitoSans-Black, Nunito Sans" font-size="12" font-weight="700" fill="#000000">
+                                <tspan x="496" y="58">PI</tspan>
+                            </text>
+                            <path d="M517,215 L507,215" id="Line" stroke="#2574FB" stroke-linecap="square" fill-rule="nonzero"></path>
+                            <g id="Names" transform="translate(61.000000, 228.000000)" fill="#000000" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="12" font-weight="600">
+                                <text id="Christian">
+                                    <tspan x="2.162" y="12">Christian</tspan>
+                                </text>
+                                <text id="Ivhet">
+                                    <tspan x="111.43" y="12">Ivhet</tspan>
+                                </text>
+                                <text id="Juana-G.">
+                                    <tspan x="192.92" y="12">Juana G.</tspan>
+                                </text>
+                                <text id="Alfredo">
+                                    <tspan x="293.826" y="12">Alfredo</tspan>
+                                </text>
+                                <text id="Yahir">
+                                    <tspan x="394.33" y="12">Yahir</tspan>
+                                </text>
+                            </g>
+                            <g id="Christian" transform="translate(73.000000, 44.000000)">
+                                <path d="M1.26562505,10.7968752 L24.7343749,10.7968752 C25.4333604,10.7968752 26,11.3635148 26,12.0625002 L26,85.7578162 L0,85.7578162 L0,12.0625002 C-8.5601025e-17,11.3635148 0.566639636,10.7968752 1.26562505,10.7968752 Z" id="Restante-Bar" fill="#F6F9FF" fill-rule="nonzero" opacity="0.8"></path>
+                                <g id="Bar-Cristian" transform="translate(0.000000, 79.000000)" fill-rule="nonzero" stroke="#2574FB">
+                                    <path d="M0.5,91.2578161 L25.5,91.2578161 L25.5,5.0625002 C25.5,4.63965716 25.157218,4.29687515 24.7343749,4.29687515 L1.26562505,4.29687515 C0.842782011,4.29687515 0.5,4.63965716 0.5,5.0625002 L0.5,91.2578161 Z" id="Bar" fill="url(#linearGradient-3)"></path>
+                                    <circle id="Oval" stroke-width="1.3" fill="#EFF7FF" cx="13.5" cy="4.5" r="3.85"></circle>
+                                </g>
+                                <text id="810" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#2574FB">
+                                    <tspan x="4" y="100">810</tspan>
+                                </text>
+                                <text id="58%" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" fill="#636466">
+                                    <tspan x="2.275" y="10">58%</tspan>
+                                </text>
+                            </g>
+                            <g id="Ivhet" transform="translate(172.000000, 44.000000)">
+                                <path d="M1.26562505,11 L24.7343749,11 C25.4333604,11 26,11.5666396 26,12.2656251 L26,71 L0,71 L0,12.2656251 C-8.5601025e-17,11.5666396 0.566639636,11 1.26562505,11 Z" id="Restante-Bar" fill="#F6F9FF" fill-rule="nonzero" opacity="0.8"></path>
+                                <g id="Bar-Ivhet" transform="translate(0.000000, 65.000000)" fill-rule="nonzero" stroke="#2574FB">
+                                    <path d="M0.5,104.546879 L25.5,104.546879 L25.5,5.0625002 C25.5,4.63965716 25.157218,4.29687515 24.7343749,4.29687515 L1.26562505,4.29687515 C0.842782011,4.29687515 0.5,4.63965716 0.5,5.0625002 L0.5,104.546879 Z" id="Bar" fill="url(#linearGradient-3)"></path>
+                                    <circle id="Oval" stroke-width="1.3" fill="#EFF7FF" cx="13.5" cy="4.5" r="3.85"></circle>
+                                </g>
+                                <text id="990" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#2574FB">
+                                    <tspan x="4" y="86">990</tspan>
+                                </text>
+                                <text id="64%" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" fill="#636466">
+                                    <tspan x="2.275" y="10">64%</tspan>
+                                </text>
+                            </g>
+                            <g id="Ariana" transform="translate(264.000000, 44.000000)">
+                                <path d="M1.26562505,11 L24.7343749,11 C25.4333604,11 26,11.5666396 26,12.2656251 L26,95 L0,95 L0,12.2656251 C-8.5601025e-17,11.5666396 0.566639636,11 1.26562505,11 Z" id="Restante-Bar" fill="#F6F9FF" fill-rule="nonzero" opacity="0.8"></path>
+                                <g id="Bar-Ariana" transform="translate(0.000000, 89.000000)" fill-rule="nonzero" stroke="#2574FB">
+                                    <path d="M0.5,80.5000032 L25.5,80.5000032 L25.5,5.0625002 C25.5,4.63965716 25.157218,4.29687515 24.7343749,4.29687515 L1.26562505,4.29687515 C0.842782011,4.29687515 0.5,4.63965716 0.5,5.0625002 L0.5,80.5000032 Z" id="Bar" fill="url(#linearGradient-3)"></path>
+                                    <circle id="Oval" stroke-width="1.3" fill="#EFF7FF" cx="13.5" cy="4.5" r="3.85"></circle>
+                                </g>
+                                <text id="760" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#2574FB">
+                                    <tspan x="4" y="110">760</tspan>
+                                </text>
+                                <text id="52%" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" fill="#636466">
+                                    <tspan x="2.27" y="10">52%</tspan>
+                                </text>
+                            </g>
+                            <g id="Alfredo" transform="translate(363.000000, 44.000000)">
+                                <path d="M1.26562505,11 L24.7343749,11 C25.4333604,11 26,11.5666396 26,12.2656251 L26,49 L0,49 L0,12.2656251 C-8.5601025e-17,11.5666396 0.566639636,11 1.26562505,11 Z" id="Restante-Bar" fill="#F6F9FF" fill-rule="nonzero" opacity="0.8"></path>
+                                <g id="Bar-Alfredo" transform="translate(0.000000, 44.000000)" fill-rule="nonzero" stroke="#2574FB">
+                                    <path d="M0.5,125.429693 L25.5,125.429693 L25.5,5.69531273 C25.5,5.27246969 25.157218,4.92968768 24.7343749,4.92968768 L1.26562505,4.92968768 C0.842782011,4.92968768 0.5,5.27246969 0.5,5.69531273 L0.5,125.429693 Z" id="Bar" fill="url(#linearGradient-3)"></path>
+                                    <circle id="Oval" stroke-width="1.3" fill="#EFF7FF" cx="13.5" cy="4.5" r="3.85"></circle>
+                                </g>
+                                <text id="1,150" font-family="NunitoSans-Black, Nunito Sans" font-size="8" font-weight="700" fill="#2574FB">
+                                    <tspan x="2.312" y="63">1,150</tspan>
+                                </text>
+                                <text id="78%" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" fill="#000000">
+                                    <tspan x="2.275" y="10">78%</tspan>
+                                </text>
+                            </g>
+                            <g id="Yahir" transform="translate(458.000000, 44.000000)">
+                                <path d="M1.26562505,11 L24.7343749,11 C25.4333604,11 26,11.5666396 26,12.2656251 L26,123 L0,123 L0,12.2656251 C-8.5601025e-17,11.5666396 0.566639636,11 1.26562505,11 Z" id="Restante-Bar" fill="#F6F9FF" fill-rule="nonzero" opacity="0.8"></path>
+                                <g id="Bar-Yahir" transform="translate(0.000000, 118.000000)" fill-rule="nonzero" stroke="#FB8A25">
+                                    <path d="M0.5,51.8046905 L25.5,51.8046905 L25.5,4.79687515 C25.5,4.37403211 25.157218,4.0312501 24.7343749,4.0312501 L1.26562505,4.0312501 C0.842782011,4.0312501 0.5,4.37403211 0.5,4.79687515 L0.5,51.8046905 Z" id="Bar" fill="url(#linearGradient-4)"></path>
+                                    <circle id="Oval" stroke-width="1.3" fill="#FFF7F0" cx="13.5" cy="4.5" r="3.85"></circle>
+                                </g>
+                                <text id="490" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#FA8925">
+                                    <tspan x="4" y="139">490</tspan>
+                                </text>
+                                <text id="30%" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" fill="#FB8A25">
+                                    <tspan x="2.275" y="10">30%</tspan>
+                                </text>
+                            </g>
+                            <path d="M41,4 L41,14" id="Line" stroke="#2574FB" stroke-linecap="square" fill-rule="nonzero"></path>
+                            <text id="cajas" font-family="NunitoSans-Black, Nunito Sans" font-size="12" font-weight="700" fill="#000000">
+                                <tspan x="5" y="12">cajas</tspan>
+                            </text>
+                            <text id="1,450-cajas" font-family="NunitoSans-Black, Nunito Sans" font-size="12" font-weight="700" fill="#000000">
+                                <tspan x="445" y="12">1,450 cajas</tspan>
+                            </text>
+                            <text id="PI:" font-family="NunitoSans-Light, Nunito Sans" font-size="12" font-weight="300" fill="#000000">
+                                <tspan x="427" y="12">PI:</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Meta-Agencia-[Col-4]" transform="translate(42.000000, 0.000000)">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="Data" transform="translate(216.000000, 47.000000)">
+                            <text id="Completo" font-family="NunitoSans-Light, Nunito Sans" font-size="11" font-weight="300" fill="#9AA1A9">
+                                <tspan x="0.081" y="30">Completo</tspan>
+                            </text>
+                            <text id="78%" font-family="NunitoSans-Black, Nunito Sans" font-size="14" font-weight="700" fill="#515C70">
+                                <tspan x="8.352" y="14">78%</tspan>
+                            </text>
+                        </g>
+                        <g id="Chart" transform="translate(192.000000, 19.000000)">
+                            <path d="M47,94 C21.0426168,94 0,72.9573832 0,47 C0,21.0426168 21.0426168,0 47,0 C72.9573832,0 94,21.0426168 94,47 C94,72.9573832 72.9573832,94 47,94 Z M47,87.1884058 C69.1954436,87.1884058 87.1884058,69.1954436 87.1884058,47 C87.1884058,24.8045564 69.1954436,6.8115942 47,6.8115942 C24.8045564,6.8115942 6.8115942,24.8045564 6.8115942,47 C6.8115942,69.1954436 24.8045564,87.1884058 47,87.1884058 Z" id="Oval" fill="#EDF0F4"></path>
+                            <g id="Progress" transform="translate(13.000000, 0.000000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="Oval" transform="translate(40.617793, 47.000000) scale(1, -1) translate(-40.617793, -47.000000) "></g>
+                                <g id="Color/Gradient/Primary" mask="url(#mask-8)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                                    <rect id="Gradient" x="0" y="0" width="81" height="94"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Cajas-por-selecciona" font-family="NunitoSans-ExtraLight, Nunito Sans" font-size="11" font-weight="300" fill="#000000">
+                            <tspan x="30" y="109">Cajas por seleccionar: 850</tspan>
+                        </text>
+                        <text id="2,600" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#2574FB" text-decoration="underline">
+                            <tspan x="88" y="80">2,600</tspan>
+                        </text>
+                        <text id="progreso:" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                            <tspan x="30" y="80">progreso:</tspan>
+                        </text>
+                        <text id="cajas" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                            <tspan x="78" y="60">cajas</tspan>
+                        </text>
+                        <text id="3,450" font-family="NunitoSans-Black, Nunito Sans" font-size="16" font-weight="700" letter-spacing="0.200000003" fill="#000000">
+                            <tspan x="30" y="60">3,45</tspan>
+                            <tspan x="63.952" y="60">0</tspan>
+                        </text>
+                        <text id="Meta-Total-de-Agenci" font-family="NunitoSans-Black, Nunito Sans" font-size="13" font-weight="700" fill="#000000">
+                            <tspan x="30" y="30">Meta Total de Agencia</tspan>
+                        </text>
+                        <g id="goal" transform="translate(14.000000, 20.000000)">
+                            <mask id="mask-11" fill="white">
+                                <use xlink:href="#path-10"></use>
+                            </mask>
+                            <g id="Shape" fill-rule="nonzero"></g>
+                            <g id="Color/Gradient/Primary" mask="url(#mask-11)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                                <rect id="Gradient" x="0" y="0" width="12" height="12"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="KPI's-[Col-4]" transform="translate(162.000000, 186.000000)">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        </g>
+                        <g id="#-KPI's" transform="translate(257.000000, 52.000000)" fill="#000000" font-family="NunitoSans-Bold, Nunito Sans" font-size="13" font-weight="bold">
+                            <text id="940">
+                                <tspan x="0.6" y="61">940</tspan>
+                            </text>
+                            <text id="680">
+                                <tspan x="0.6" y="37">680</tspan>
+                            </text>
+                            <text id="880">
+                                <tspan x="0.6" y="13">880</tspan>
+                            </text>
+                        </g>
+                        <g id="Envases-KPI's" transform="translate(30.000000, 52.000000)" fill="#000000" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300">
+                            <text id="Envase-Genérico:">
+                                <tspan x="0" y="13">Envase Genérico:</tspan>
+                            </text>
+                            <text id="Envase-Genérico-Prem">
+                                <tspan x="0" y="37">Envase Genérico Premium:</tspan>
+                            </text>
+                            <text id="Envase-Seleccionado:">
+                                <tspan x="0" y="61">Envase Seleccionado:</tspan>
+                            </text>
+                        </g>
+                        <path d="M8,39.5 L298,39.5" id="Line" stroke="#DAE0EB" stroke-linecap="square" fill-rule="nonzero"></path>
+                        <g id="0.9" transform="translate(260.000000, 17.000000)">
+                            <mask id="mask-15" fill="white">
+                                <use xlink:href="#path-14"></use>
+                            </mask>
+                            <g></g>
+                            <g id="Color/Gradient/Primary" mask="url(#mask-15)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                                <g transform="translate(1.000000, -1.000000)" id="Gradient">
+                                    <rect x="0" y="0" width="20" height="12"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Días-Venta" font-family="NunitoSans-Black, Nunito Sans" font-size="13" font-weight="700" fill="#000000">
+                            <tspan x="30" y="27">Días Venta</tspan>
+                        </text>
+                        <g id="percentage" transform="translate(14.000000, 16.000000)">
+                            <mask id="mask-17" fill="white">
+                                <use xlink:href="#path-16"></use>
+                            </mask>
+                            <g id="Combined-Shape"></g>
+                            <g id="Color/Gradient/Primary" mask="url(#mask-17)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                                <rect id="Gradient" x="0" y="0" width="12" height="12"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

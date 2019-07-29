@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="175px" height="32px" viewBox="0 0 175 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo &amp; Text</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="65.326099%" y1="-4.34759963%" x2="39.5866506%" y2="88.8283944%" id="linearGradient-1">
+            <stop stop-color="#8544E8" offset="0%"></stop>
+            <stop stop-color="#7C75DA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="9.75583903%" y1="80.4518891%" x2="31.7483401%" y2="67.2483948%" id="linearGradient-2">
+            <stop stop-color="#8544E8" offset="0%"></stop>
+            <stop stop-color="#7C75DA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.3909063%" y1="5.36151909%" x2="82.5299648%" y2="26.6015543%" id="linearGradient-3">
+            <stop stop-color="#6115D5" offset="0%"></stop>
+            <stop stop-color="#7C75DA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M18.581065,1.74667974 L22.8627313,7.43086021 L22.8627313,18.8951944 C22.8627313,19.5571118 22.6824692,20.206957 22.3406698,20.7772275 L19.9945415,24.6915922 L5.0093201,23.5444102 C2.93317412,23.3854725 1.38117609,21.6019142 1.54283546,19.5607213 C1.59764434,18.8686767 1.84898078,18.2056636 2.26823237,17.6471602 L14.2015784,1.75022506 C15.0946691,0.560499737 16.7996403,0.307840982 18.0097383,1.18589594 C18.227462,1.34387764 18.4200197,1.53288203 18.581065,1.74667974 Z" id="path-4"></path>
+        <linearGradient x1="32.5143991%" y1="11.2618379%" x2="93.6361888%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#4EDAED" offset="0%"></stop>
+            <stop stop-color="#4241F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="WMS-Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Alpha" transform="translate(-68.000000, -21.000000)">
+            <g id="NavBar---Dark-[Div]">
+                <g id="Logo-&amp;-Text" transform="translate(68.000000, 22.000000)">
+                    <text id="ARVOLUTION" font-family="WorkSans-Light, Work Sans" font-size="14" font-weight="300" letter-spacing="5.25" fill="#1B304B">
+                        <tspan x="43.03" y="20">ARVOLUTION</tspan>
+                    </text>
+                    <g id="Logo" fill-rule="nonzero">
+                        <g id="Triangle">
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                            <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.3" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" xlink:href="#path-4"></use>
+                        </g>
+                        <path d="M6.28425279,17.2199291 L9.56765334,19.7530133 C10.297808,20.3163145 10.4330695,21.3648675 9.86976838,22.0950222 C9.53039123,22.5349251 8.99443822,22.7772097 8.43999531,22.7413699 L7.7036653,22.6937727 L5.27819146,22.4366783 C4.41422776,22.3451003 3.63388985,21.8792318 3.14335119,21.1621602 L2.99377284,20.9435059 C2.60112218,20.3695274 2.50088756,19.6444445 2.72309602,18.9854686 L2.72309602,18.9854686 C2.95241355,18.3054103 3.39179376,17.7157562 3.97787427,17.3015395 L4.15637291,17.1753843 C4.79854387,16.7215253 5.66163817,16.7395932 6.28425279,17.2199291 Z" id="Triangle" fill="url(#linearGradient-1)" style="mix-blend-mode: screen;" opacity="0.398876"></path>
+                        <path d="M27.9422593,3.14834879 L22.0105411,27.2873457 C21.5286179,29.2485216 19.5480947,30.4476929 17.5869188,29.9657697 C16.9590754,29.8114886 16.3833608,29.4935054 15.9184516,29.0442287 L1.11271596,14.7363333 C-0.339506944,13.3329411 -0.379092078,11.0180077 1.02430009,9.56578482 C1.39344398,9.18379664 1.84138202,8.88682286 2.33694966,8.69552493 L24.5167312,0.133734656 C25.8425255,-0.378045518 27.3321739,0.281843286 27.843954,1.60763755 C28.0336445,2.09904103 28.0679577,2.63682189 27.9422593,3.14834879 Z" id="Triangle" fill="url(#linearGradient-5)"></path>
+                        <path d="M10.2979443,6.1500681 L22.7770716,6.92034731 C24.8554099,7.04863359 26.4344586,8.80909124 26.3039755,10.8524395 C26.2770041,11.2748087 26.1766709,11.6895188 26.0073252,12.0785927 L19.7018524,26.5654959 C18.8825877,28.447767 16.6664312,29.3206852 14.7519283,28.5152133 C13.8886446,28.1520115 13.1942651,27.485186 12.8046528,26.6452085 L6.08774704,12.1640198 C5.09569809,10.0252302 6.05500492,7.5007235 8.23041882,6.52537626 C8.87775601,6.23514251 9.5878716,6.10623857 10.2979443,6.1500681 Z" id="Triangle" fill="#E4EBFA" opacity="0.438895089"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

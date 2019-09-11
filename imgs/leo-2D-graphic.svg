@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="386px" viewBox="0 0 491 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>leo-2DGraphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.82724528,0 L466.372792,0 C471.247945,2.94144885e-14 475.200038,3.95209233 475.200038,8.82724528 L475.200038,282.471849 C475.200038,287.347002 471.247945,291.299094 466.372792,291.299094 L8.82724528,291.299094 C3.95209233,291.299094 1.12551751e-14,287.347002 1.0658141e-14,282.471849 L0,8.82724528 C-5.97034046e-16,3.95209233 3.95209233,-1.68680173e-14 8.82724528,-1.77635684e-14 Z" id="path-1"></path>
+        <filter x="-3.1%" y="-3.3%" width="106.1%" height="110.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="55.9058868" height="7.35603774" rx="2.94241509"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5393FF" offset="0%"></stop>
+            <stop stop-color="#004AC9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="336" height="130" rx="12"></rect>
+        <filter x="-5.4%" y="-9.2%" width="110.7%" height="127.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M34,94 C32.1190302,94 30.5942029,92.4751727 30.5942029,90.5942029 C30.5942029,88.7132331 32.1190302,87.1884058 34,87.1884058 C56.1954436,87.1884058 74.1884058,69.1954436 74.1884058,47 C74.1884058,24.8045564 56.1954436,6.8115942 34,6.8115942 C23.4041517,6.8115942 13.465343,10.9255902 6.01337993,18.1580248 C4.66360037,19.4680411 2.50740985,19.4358065 1.19739363,18.0860269 C-0.112622602,16.7362474 -0.0803880504,14.5800569 1.26939151,13.2700406 C9.97997487,4.81606351 21.6148754,0 34,0 C59.9573832,0 81,21.0426168 81,47 C81,72.9573832 59.9573832,94 34,94 Z" id="path-8"></path>
+        <path d="M12,1.54279687 L10.2000703,1.79988281 L10.4572266,0 L9.088125,1.36905469 C8.15620312,0.734648437 7.03057031,0.363632812 5.81817187,0.363632812 C2.60486719,0.363632813 0,2.9685 0,6.18182812 C0,9.39515625 2.60486719,12 5.81817187,12 C9.03145312,12 11.6363437,9.39513281 11.6363437,6.18182813 C11.6363437,4.96942969 11.2653281,3.84375 10.6309219,2.91182813 L12,1.54279687 Z M5.81817187,10.5454453 C3.40821094,10.5454453 1.45453125,8.59176562 1.45453125,6.18180469 C1.45453125,3.77184375 3.40821094,1.8181875 5.81817187,1.8181875 C6.82654687,1.8181875 7.75490625,2.16039844 8.49379687,2.73478125 L7.45303125,3.77554687 C6.98709375,3.45834375 6.42433594,3.27274219 5.81814844,3.27274219 C4.21148437,3.27274219 2.9090625,4.5751875 2.9090625,6.18182812 C2.9090625,7.78846875 4.21150781,9.09091406 5.81814844,9.09091406 C7.42478906,9.09091406 8.72723437,7.78846875 8.72723437,6.18182812 C8.72723437,5.57564062 8.54163281,5.01288281 8.22442969,4.54694531 L9.26519531,3.50617969 C9.83960156,4.24509375 10.1817656,5.17345312 10.1817656,6.18180469 C10.1818125,8.59178906 8.22810937,10.5454453 5.81817187,10.5454453 Z M5.57175,6.42822656 C5.78472656,6.64125 6.130125,6.64125 6.34317187,6.42822656 L7.15760156,5.61379688 C7.23166406,5.78833594 7.27272656,5.9803125 7.27272656,6.18182813 C7.27272656,6.98517188 6.62149219,7.63638281 5.81817187,7.63638281 C5.01485156,7.63638281 4.36361719,6.98517188 4.36361719,6.18182813 C4.36361719,5.37848438 5.01485156,4.72727344 5.81817187,4.72727344 C6.01971094,4.72727344 6.21166406,4.76828906 6.38617969,4.84239844 L5.57175,5.65682813 C5.35877344,5.86982813 5.35877344,6.21520313 5.57175,6.42822656 Z" id="path-10"></path>
+        <rect id="path-12" x="0" y="0" width="180" height="194" rx="12"></rect>
+        <filter x="-10.0%" y="-6.2%" width="120.0%" height="118.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.811410502   0 0 0 0 0.811410502   0 0 0 0 0.811410502  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="0" y="0" width="12" height="12" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#6AFBFF" offset="0%"></stop>
+            <stop stop-color="#02C7D4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-17" x="0" y="0" width="12" height="12" rx="3"></rect>
+        <rect id="path-19" x="0" y="0" width="112" height="16" rx="4"></rect>
+        <rect id="path-21" x="0" y="0" width="82" height="16" rx="4"></rect>
+    </defs>
+    <g id="WMS-Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Alpha" transform="translate(-98.000000, -1231.000000)">
+            <g id="Leo-[Div-4]" transform="translate(100.000000, 1235.000000)">
+                <g id="leo-2DGraphic" transform="translate(6.000000, 0.000000)">
+                    <g id="Gráfica" opacity="0.400000006" transform="translate(0.000000, 46.000000)">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Graph-[Col-10]" transform="translate(12.719679, 50.756660)">
+                            <rect id="Min---Max" fill="#FAFCFF" fill-rule="nonzero" x="31.4165473" y="44.1362264" width="389.87" height="107.398151"></rect>
+                            <g id="X-Axis-Lines" transform="translate(28.474132, 43.400623)" fill-rule="nonzero" stroke-linecap="square">
+                                <path d="M392.812415,154.844594 L2.94241509,154.844594" id="X-Axis-7" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,124.68484 L2.94241509,124.68484" id="X-Axis-6" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,94.5250849 L2.94241509,94.5250849" id="X-Axis-5" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,64.3653302 L2.94241509,64.3653302" id="X-Axis-4" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,31.9987642 L2.94241509,31.9987642" id="X-Axis-3" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,0.367801887 L2.94241509,0.367801887" id="X-Axis-1" stroke="#D9D9D9" stroke-width="0.735603774" stroke-dasharray="0.9309984338680266,3.258494840403188"></path>
+                                <path d="M392.812415,108.501557 L2.94241509,108.501557" id="Max-line" stroke="#005D64" stroke-width="1.17696604" stroke-dasharray="1.471207474518117,3.678018954516205"></path>
+                                <path d="M392.812415,0.367801887 L2.94241509,0.367801887" id="Max-line" stroke="#005D64" stroke-width="1.17696604" stroke-dasharray="1.471207474518117,3.678018954516205"></path>
+                            </g>
+                            <text id="min" font-family="NunitoSans-Black, Nunito Sans" font-size="8.82724528" font-weight="700" fill="#000000">
+                                <tspan x="430.113793" y="153.17834">min</tspan>
+                            </text>
+                            <text id="max" font-family="NunitoSans-Black, Nunito Sans" font-size="8.82724528" font-weight="700" fill="#000000">
+                                <tspan x="430.113793" y="45.7801887">max</tspan>
+                            </text>
+                            <g id="Y-Data" transform="translate(0.000000, 36.780189)" fill="#000000" font-family="NunitoSans-Regular, Nunito Sans" font-size="8.82724528" font-weight="normal">
+                                <text id="0">
+                                    <tspan x="16.2797284" y="166.419208">0</tspan>
+                                </text>
+                                <text id="0.5M">
+                                    <tspan x="1.82615327" y="134.788245">0.5M</tspan>
+                                </text>
+                                <text id="1M">
+                                    <tspan x="9.23558112" y="103.157283">1M</tspan>
+                                </text>
+                                <text id="1.5M">
+                                    <tspan x="1.59775702" y="72.2619245">1.5M</tspan>
+                                </text>
+                                <text id="2M">
+                                    <tspan x="9.10718483" y="40.6309623">2M</tspan>
+                                </text>
+                                <text id="2.5M">
+                                    <tspan x="1.46936072" y="9">2.5M</tspan>
+                                </text>
+                            </g>
+                            <g id="X-Data" transform="translate(31.059755, 197.141811)">
+                                <path d="M407.524491,0.735603774 L400.168453,0.735603774" id="Line" stroke="#2574FB" stroke-width="0.735603774" stroke-linecap="square" fill-rule="nonzero"></path>
+                                <text id="6AM" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="8.82724528" font-weight="600" fill="#000000">
+                                    <tspan x="369.522153" y="18.5628491">6AM</tspan>
+                                </text>
+                                <path d="M202.65884,4.41362264 L202.65884,11.7696604" id="Line" stroke="#2574FB" stroke-width="0.735603774" stroke-linecap="square" fill-rule="nonzero"></path>
+                                <text id="12AM" font-family="NunitoSans-Light, Nunito Sans" font-size="7.35603774" font-weight="300" fill="#000000">
+                                    <tspan x="75.0315849" y="13.620434">12AM</tspan>
+                                </text>
+                                <text id="10PM" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="8.82724528" font-weight="600" fill="#000000">
+                                    <tspan x="0" y="18.5628491">10PM</tspan>
+                                </text>
+                            </g>
+                            <g id="Sureste" transform="translate(28.852943, 80.916415)" fill-rule="nonzero" stroke="#07407A">
+                                <polyline id="Path" stroke-width="0.735603774" points="17.650318 117.166969 68.5316284 86.4578981 133.144283 81.3099545 197.793464 61.4605259 262.043036 29.7082979 327.081033 20.2548413 391.341208 3.8042262"></polyline>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="391.709009" cy="3.31021698" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="326.975877" cy="20.2291038" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="262.242745" cy="29.0563491" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="197.509613" cy="59.9517076" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="132.776481" cy="81.284217" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="68.0433491" cy="87.1690472" r="2.83207453"></circle>
+                            </g>
+                            <g id="Centro-Sur" transform="translate(28.852943, 43.400623)" fill-rule="nonzero" stroke="#07407A">
+                                <polyline id="Path" stroke-width="0.735603774" points="2.93824249 154.682762 68.5316284 72.4814264 133.144283 54.8282187 197.793464 47.4840542 262.043036 37.7999394 327.081033 20.9904451 391.341208 4.53982998"></polyline>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="391.709009" cy="3.31021698" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="326.975877" cy="20.2291038" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="262.242745" cy="37.8835943" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="197.509613" cy="47.4464434" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="132.776481" cy="54.0668774" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EDF4FA" cx="68.0433491" cy="72.4569717" r="2.83207453"></circle>
+                            </g>
+                            <g id="Occ.-Pacífico" transform="translate(28.852943, 94.892887)" fill-rule="nonzero" stroke="#00E0EE">
+                                <polyline id="Path" stroke-width="0.735603774" points="9.55867646 103.190497 68.5316284 87.1935019 133.144283 38.6449356 197.793464 26.8871485 262.043036 21.6166564 327.081033 10.6919922 391.341208 3.8042262"></polyline>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="391.709009" cy="3.31021698" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="326.975877" cy="10.6662547" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="262.242745" cy="21.7003113" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="197.509613" cy="26.8495377" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="132.776481" cy="37.8835943" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#F0FEFF" cx="68.0433491" cy="87.1690472" r="2.83207453"></circle>
+                            </g>
+                            <g id="Central-Bajío" transform="translate(28.852943, 58.848302)" fill-rule="nonzero">
+                                <polyline id="Path" stroke="#B3D9FF" stroke-width="0.735603774" points="2.93824249 139.235082 68.5316284 86.4578981 133.144283 60.7130488 197.793464 54.1044881 262.043036 37.0643356 327.081033 12.1631998 391.341208 3.06862243"></polyline>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="391.709009" cy="3.31021698" r="2.83207453"></circle>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="326.975877" cy="12.1374623" r="2.83207453"></circle>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="262.242745" cy="36.4123868" r="2.83207453"></circle>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="197.509613" cy="54.0668774" r="2.83207453"></circle>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="132.776481" cy="60.6873113" r="2.83207453"></circle>
+                                <circle id="Oval" stroke="#99CCFF" stroke-width="0.956284906" fill="#F0F7FF" cx="68.0433491" cy="86.4334434" r="2.83207453"></circle>
+                            </g>
+                            <g id="Norte" transform="translate(28.852943, 125.052642)" fill-rule="nonzero" stroke="#2574FB">
+                                <polyline id="Path" stroke-width="0.735603774" points="2.93824249 73.0334252 68.5316284 32.7588227 133.144283 29.8176903 197.793464 23.2091296 262.043036 20.1454488 327.081033 9.95638846 391.341208 3.06862243"></polyline>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="391.709009" cy="3.31021698" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="326.975877" cy="9.93065094" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="262.242745" cy="20.2291038" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="197.509613" cy="23.9071226" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="132.776481" cy="29.7919528" r="2.83207453"></circle>
+                                <circle id="Oval" stroke-width="0.956284906" fill="#EFF7FF" cx="68.0433491" cy="32.7343679" r="2.83207453"></circle>
+                            </g>
+                            <path d="M29.5885472,13.2408679 L29.5885472,20.5969057" id="Line" stroke="#2574FB" stroke-width="0.735603774" stroke-linecap="square" fill-rule="nonzero"></path>
+                            <text id="cajas" font-family="NunitoSans-Black, Nunito Sans" font-size="8.82724528" font-weight="700" line-spacing="8.82724528" fill="#000000">
+                                <tspan x="2.24281129" y="20.0340566">cajas</tspan>
+                            </text>
+                            <g id="Filtros" transform="translate(74.460377, 0.000000)">
+                                <g id="UI/Chart/Filter" transform="translate(258.196925, 0.000000)"></g>
+                                <g id="UI/Chart/Filter" transform="translate(193.463792, 0.000000)"></g>
+                                <g id="UI/Chart/Filter" transform="translate(128.730660, 0.000000)"></g>
+                                <g id="UI/Chart/Filter" transform="translate(64.184773, 0.000000)"></g>
+                                <g id="UI/Chart/Filter"></g>
+                            </g>
+                        </g>
+                        <g id="Header" transform="translate(7.356038, 10.298453)">
+                            <path d="M0,21.7003113 L460.487962,21.7003113" id="Line" stroke="#DAE0EB" stroke-width="0.735603774" stroke-linecap="square" fill-rule="nonzero"></path>
+                            <text id="96%" font-family="NunitoSans-Black, Nunito Sans" font-size="9.56284906" font-weight="700" fill="#000000">
+                                <tspan x="417.08734" y="10">96%</tspan>
+                            </text>
+                            <g id="Progress" transform="translate(342.055755, 0.735604)">
+                                <rect id="Rectangle" stroke="#DADDE0" stroke-width="0.735603774" fill="#EDF0F4" fill-rule="nonzero" x="0.367801887" y="0.367801887" width="65.4687359" height="11.0340566" rx="2.94241509"></rect>
+                                <g id="Progress-Color" transform="translate(2.206811, 2.206811)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="#EDF0F4" fill-rule="nonzero" xlink:href="#path-3"></use>
+                                    <g id="Color/Gradient/Primary" mask="url(#mask-4)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                        <g transform="translate(29.424151, 3.678019) scale(-1, 1) rotate(90.000000) translate(-29.424151, -3.678019) translate(25.746132, -25.746132)" id="Gradient">
+                                            <rect x="0" y="0" width="6.97637127" height="58.8008436"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <text id="Progreso" font-family="NunitoSans-Light, Nunito Sans" font-size="9.56284906" font-weight="300" fill="#000000">
+                                <tspan x="299.390736" y="10">Progreso</tspan>
+                            </text>
+                            <text id="Seleccionadas:-1,806" font-family="NunitoSans-Light, Nunito Sans" font-size="9.56284906" font-weight="300" fill="#000000">
+                                <tspan x="141.423169" y="10">Seleccionadas: </tspan>
+                                <tspan x="205.819395" y="10" font-family="NunitoSans-Black, Nunito Sans" font-weight="700">1,806,336</tspan>
+                                <tspan x="251.185551" y="10"> cajas</tspan>
+                            </text>
+                            <text id="Meta:-1,881,600-caja" font-family="NunitoSans-Light, Nunito Sans" font-size="9.56284906" font-weight="300" fill="#000000">
+                                <tspan x="10.2984528" y="10">Meta: </tspan>
+                                <tspan x="36.0320796" y="10" font-family="NunitoSans-Black, Nunito Sans" font-weight="700">1,881,600</tspan>
+                                <tspan x="81.3982356" y="10"> cajas</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Meta" transform="translate(53.000000, 0.000000)">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Data" transform="translate(243.000000, 47.000000)">
+                            <text id="Completo" font-family="NunitoSans-Light, Nunito Sans" font-size="11" font-weight="300" fill="#9AA1A9">
+                                <tspan x="0.081" y="30">Completo</tspan>
+                            </text>
+                            <text id="86%" font-family="NunitoSans-Black, Nunito Sans" font-size="14" font-weight="700" fill="#515C70">
+                                <tspan x="8.352" y="14">86%</tspan>
+                            </text>
+                        </g>
+                        <g id="Chart" transform="translate(219.000000, 19.000000)">
+                            <path d="M47,94 C21.0426168,94 0,72.9573832 0,47 C0,21.0426168 21.0426168,0 47,0 C72.9573832,0 94,21.0426168 94,47 C94,72.9573832 72.9573832,94 47,94 Z M47,87.1884058 C69.1954436,87.1884058 87.1884058,69.1954436 87.1884058,47 C87.1884058,24.8045564 69.1954436,6.8115942 47,6.8115942 C24.8045564,6.8115942 6.8115942,24.8045564 6.8115942,47 C6.8115942,69.1954436 24.8045564,87.1884058 47,87.1884058 Z" id="Oval" fill="#EDF0F4"></path>
+                            <g id="Progress" transform="translate(13.000000, 0.000000)">
+                                <mask id="mask-9" fill="white">
+                                    <use xlink:href="#path-8"></use>
+                                </mask>
+                                <g id="Oval" transform="translate(40.617793, 47.000000) scale(1, -1) translate(-40.617793, -47.000000) "></g>
+                                <g id="Color/Gradient/Primary" mask="url(#mask-9)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                    <rect id="Gradient" x="0" y="0" width="81" height="94"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Cajas-restantes-por" font-family="NunitoSans-ExtraLight, Nunito Sans" font-size="11" font-weight="300" fill="#000000">
+                            <tspan x="30" y="109">Cajas restantes por entregar: 263,424</tspan>
+                        </text>
+                        <text id="1.61M" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#2574FB" text-decoration="underline">
+                            <tspan x="102" y="80">1.61M</tspan>
+                        </text>
+                        <text id="Entregadas:" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                            <tspan x="30" y="80">Entregadas:</tspan>
+                        </text>
+                        <text id="cajas" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                            <tspan x="164" y="60">cajas</tspan>
+                        </text>
+                        <text id="1.88M" font-family="NunitoSans-Black, Nunito Sans" font-size="16" font-weight="700" letter-spacing="0.200000003" fill="#000000">
+                            <tspan x="110" y="60">1.88M</tspan>
+                        </text>
+                        <text id="Se-vendieron" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                            <tspan x="30" y="60">Se vendieron</tspan>
+                        </text>
+                        <text id="Meta-CEDIS" font-family="NunitoSans-Black, Nunito Sans" font-size="13" font-weight="700" fill="#000000">
+                            <tspan x="30" y="30">Meta CEDIS</tspan>
+                        </text>
+                        <g id="goal" transform="translate(14.000000, 20.000000)">
+                            <mask id="mask-11" fill="white">
+                                <use xlink:href="#path-10"></use>
+                            </mask>
+                            <g id="Shape" fill-rule="nonzero"></g>
+                            <g id="Color/Gradient/Primary" mask="url(#mask-11)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                <rect id="Gradient" x="0" y="0" width="12" height="12"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Rutas-[Col-4]" transform="translate(269.000000, 172.000000)">
+                        <g id="Card">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        </g>
+                        <g id="Group" transform="translate(18.000000, 86.000000)">
+                            <g id="#-KPI's" transform="translate(106.000000, 0.000000)" fill="#000000" font-family="NunitoSans-Bold, Nunito Sans" font-size="13" font-weight="bold">
+                                <text id="1,210">
+                                    <tspan x="0.563" y="85">1,210</tspan>
+                                </text>
+                                <text id="2,116">
+                                    <tspan x="0.563" y="61">2,116</tspan>
+                                </text>
+                                <text id="3,326">
+                                    <tspan x="0.563" y="37">3,326</tspan>
+                                </text>
+                                <text id="3,780">
+                                    <tspan x="0.576" y="13">3,780</tspan>
+                                </text>
+                            </g>
+                            <g id="Datos">
+                                <text id="#-Faltantes" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                                    <tspan x="0" y="85"># Faltantes</tspan>
+                                </text>
+                                <text id="Completadas" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                                    <tspan x="16" y="61">Completadas</tspan>
+                                </text>
+                                <g id="Completadas" transform="translate(0.000000, 51.000000)">
+                                    <mask id="mask-15" fill="white">
+                                        <use xlink:href="#path-14"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-14"></use>
+                                    <g id="Color/Gradient/Aqua" mask="url(#mask-15)" fill="url(#linearGradient-16)" fill-rule="nonzero">
+                                        <rect id="Gradient" x="0" y="0" width="12" height="14"></rect>
+                                    </g>
+                                </g>
+                                <text id="Cargadas" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                                    <tspan x="16" y="37">Cargadas</tspan>
+                                </text>
+                                <g id="Cargadas" transform="translate(0.000000, 27.000000)">
+                                    <mask id="mask-18" fill="white">
+                                        <use xlink:href="#path-17"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-17"></use>
+                                    <g id="Color/Gradient/Primary" mask="url(#mask-18)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                        <rect id="Gradient" x="0" y="0" width="12" height="14"></rect>
+                                    </g>
+                                </g>
+                                <text id="Objetivo-Rutas" font-family="NunitoSans-Light, Nunito Sans" font-size="13" font-weight="300" fill="#000000">
+                                    <tspan x="0" y="13">Objetivo Rutas</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path d="M12,73.5 L170,73.5" id="Line" stroke="#DAE0EB" stroke-linecap="square" fill-rule="nonzero"></path>
+                        <g id="Progress" transform="translate(22.000000, 12.000000)">
+                            <rect id="Rectangle" stroke="#DADDE0" fill="#EDF0F4" fill-rule="nonzero" x="0.5" y="0.5" width="135" height="21" rx="4"></rect>
+                            <g id="Progress-Color" transform="translate(4.000000, 3.000000)">
+                                <mask id="mask-20" fill="white">
+                                    <use xlink:href="#path-19"></use>
+                                </mask>
+                                <use id="Rectangle" fill="#EDF0F4" fill-rule="nonzero" xlink:href="#path-19"></use>
+                                <g id="Color/Gradient/Primary" mask="url(#mask-20)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                    <g transform="translate(56.000000, 8.000000) scale(-1, 1) rotate(90.000000) translate(-56.000000, -8.000000) translate(48.000000, -48.000000)" id="Gradient">
+                                        <rect x="0" y="0" width="16" height="112"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Progress-Completadas" transform="translate(4.000000, 3.000000)">
+                                <mask id="mask-22" fill="white">
+                                    <use xlink:href="#path-21"></use>
+                                </mask>
+                                <use id="Rectangle" fill="#EDF0F4" fill-rule="nonzero" xlink:href="#path-21"></use>
+                                <g id="Color/Gradient/Aqua" mask="url(#mask-22)" fill="url(#linearGradient-16)" fill-rule="nonzero">
+                                    <g transform="translate(56.000000, 8.000000) scale(-1, 1) rotate(90.000000) translate(-56.000000, -8.000000) translate(48.000000, -48.000000)" id="Gradient">
+                                        <rect x="0" y="0" width="16" height="112"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Text-Percentaje" transform="translate(53.000000, 46.000000)"></g>
+                        <text id="%-de-Productividad-R" font-family="NunitoSans-Light, Nunito Sans" font-size="11" font-weight="300" line-spacing="12" fill="#9AA1A9">
+                            <tspan x="31" y="51">% de Productividad Real</tspan>
+                            <tspan x="59.523" y="63">(Adherencia)</tspan>
+                        </text>
+                        <text id="88%" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#FFFFFF">
+                            <tspan x="112" y="26">88%</tspan>
+                        </text>
+                        <text id="56%" font-family="NunitoSans-Black, Nunito Sans" font-size="10" font-weight="700" fill="#FFFFFF">
+                            <tspan x="52" y="26">56%</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
